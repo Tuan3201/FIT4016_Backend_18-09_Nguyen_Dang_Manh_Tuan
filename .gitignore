@@ -1,0 +1,92 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# ReSharper
+.idea/
+*.sln.iml
+_ReSharper*/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+[Bb]in/
+[Oo]bj/
+
+# Publish Folders
+PublishProfiles/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+
+# NuGet Package Manager formats
+project.lock.json
+project.assets.json
+nuget.idrev
+packages.config
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+
+# Local user-specific settings
+appsettings.local.json
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Entity Framework
+Migrations/
+*.edmx.diagram
+
+# dotnet core cache directories
+.dotnet/
+
+# Test Results
+TestResults/
+
+# Coverage Reports
+OpenCover/
+
+# Local files
+.env
+.env.local
+
+# Other
+node_modules/
+dist/
+build/
+*.swp
+*.swo
+*~
